@@ -9,3 +9,4 @@ Original contributors
 * Czech - Pavel Ševčík
 * Dutch - Jelmer Borst
 * German - Manuel Schmid
+* Portuguese - Nelson Mendes

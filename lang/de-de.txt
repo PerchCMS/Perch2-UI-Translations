@@ -13,7 +13,7 @@
 	"Dashboard":"Dashboard",
 	"My Site":"Meine Seite",
 	"Users":"Benutzer",
-	"Add\/	Edit":"Hinzuf\u00fcgen\/Bearbeiten",
+	"Add\/Edit":"Hinzuf\u00fcgen\/Bearbeiten",
 	"Master pages":"Seitenvorlagen",
 	"Add page":"Seite hinzuf\u00fcgen",
 	"Listing pages":"Seiten auflisten",

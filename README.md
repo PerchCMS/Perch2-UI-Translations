@@ -10,4 +10,4 @@ Original contributors
 * Dutch - Jelmer Borst
 * German - Manuel Schmid
 * Portuguese - Nelson Mendes
-* Castillian Spanish - Pablo D. Olmos
+* Spanish (Spain) - Pablo D. Olmos

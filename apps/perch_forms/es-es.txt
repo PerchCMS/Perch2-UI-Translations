@@ -1,0 +1,10 @@
+{
+  "Forms":"Formularios",
+	"The forms in your site are listed here. If a form is configured to store data, you can click through to view the responses.":"Los formularios de tu sitio aparecen aqui. Si tienes un formulario configurado para que almacene datos, puedes clicarlo para leer sus respuestas.",
+	"Listing Forms":"Mostrando el listado de formularios",
+	"Form":"Formulario",
+	"Responses":"Respuestas",
+	"Most recent":"Mas reciente",
+	"Delete this form?":"¿Borrar este formulario?",
+	"Delete":"Borrar"
+}

@@ -435,5 +435,6 @@
 	"Republishing: %s on page %s":"Republishing: %s on page %s",
 	"Republishing a lot of content can be slow and consume server resources.":"Republishing a lot of content can be slow and consume server resources.",
 	"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.",
-	"Republishing completed successfully":"Republishing completed successfully"
+	"Republishing completed successfully":"Republishing completed successfully",
+	"Sorry, that page could not be created.":"Sorry, that page could not be created."
 }

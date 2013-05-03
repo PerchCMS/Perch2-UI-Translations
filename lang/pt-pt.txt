@@ -1,5 +1,5 @@
 {
-  "lang":"pt-pt",
+	"lang":"pt-pt",
 	"Pages":"P\u00e1ginas",
 	"Manage Content":"Gerir Conte\u00fado",
 	"Shared":"Partilhadas",
@@ -209,7 +209,7 @@
 	"May be edited by":"Pode ser editado por",
 	"You are editing a draft.":"Est\u00e1 a editar um rascunho.",
 	"Required fields are marked with an asterisk.":"Os campos obrigat\u00f3rios est\u00e3o assinalados com um asterisco.",
-	"Page assignment":"Liga\u00e7\u00e3o a p\u00e1gina",
+	"Page assignment":"Liga\u00e7\u00e3o a p\u00e1ginas",
 	"Save Changes":"Guardar Altera\u00e7\u00f5es",
 	"Save & Add another":"Guardar e Criar outro",
 	"Save as Draft":"Guardar Rascunho",
@@ -432,7 +432,9 @@
 "Are you sure you wish to republish all pages?":"Tem a certeza que deseja republicar todas as p\u00e1ginas?",
 "Pages successfully republished.":"P\u00e1ginas republicadas corretamente.",
 "Republishing is underway.":"A republica\u00e7\u00e3o est\u00e1 em curso.",
-"Republishing: %s on page %s":"Repiblicar: %s na p\u00e1gina %s",
+"Republishing: %s on page %s":"Republicar: %s na p\u00e1gina %s",
 "Republishing a lot of content can be slow and consume server resources.":"A republica\u00e7\u00e3o de muito conte\u00fado pode tornar-se muito lenta e consumir muitos recursos de servidor.",
-"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"A Republica\u00e7\u00e3o recria a c\u00f3pia em mem\u00f3ria cache de cada p\u00e1gina. \u00c9 \u00fatil se modificou o modelo e precisa de atualizar o conte\u00fado para aplicar as altera\u00e7\u00f5es."
+"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"A Republica\u00e7\u00e3o recria a c\u00f3pia em mem\u00f3ria cache de cada p\u00e1gina. \u00c9 \u00fatil se modificou um modelo e precisa de atualizar o conte\u00fado para conseguir visualizar as altera\u00e7\u00f5es.",
+	"Republishing completed successfully":"A Republicação foi completada com sucesso",
+	"Sorry, that page could not be created.":"Desculpe mas não foi possível criar essa página"
 }

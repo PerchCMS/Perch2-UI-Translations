@@ -1,0 +1,10 @@
+{
+  "Forms":"Formulieren",
+	"The forms in your site are listed here. If a form is configured to store data, you can click through to view the responses.":"Alle formulieren worden hier weergegeven. Als een formulier is ingesteld om data op te slaan, is het mogelijk om de respons te bekijken.",
+	"Listing Forms":"Formulieren weergeven",
+	"Form":"Formulier",
+	"Responses":"Respons",
+	"Most recent":"Meest recent",
+	"Delete this form?":"Het formulier verwijderen?",
+	"Delete":"Verwijder"
+}

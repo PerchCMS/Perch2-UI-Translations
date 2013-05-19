@@ -435,5 +435,6 @@
 	"Republishing: %s on page %s":"Republiséring: %s på side %s",
 	"Republishing a lot of content can be slow and consume server resources.":"Republiséring av mye innhold kan gå tregt og ta mye ressurser på serveren.",
 	"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"Republiséring bygger opp hurtiglageret til hver side. Det er nyttig om du har endret på en mal og vil oppdatere alle sidene i kun én operasjon.",
-	"Republishing completed successfully":"Republiséringen er ferdig"
+	"Republishing completed successfully":"Republiséringen er ferdig",
+	"Sorry, that page could not be created.":"Beklager, siden kan ikke opprettes."
 }

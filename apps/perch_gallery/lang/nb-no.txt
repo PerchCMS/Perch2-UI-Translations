@@ -1,0 +1,22 @@
+{
+	"Gallery":"Galleri",
+	"Gallery: Manage Albums":"Galleri: Håndtér album",
+	"This page lists your current albums. You can add a new album or add new images to an existing album.":"Denne siden viser det gjeldende albumet. Du kan legge til nye album eller legge til nye bilder til et eksisterende album.",
+	"Add Album":"Legg til album",
+	"Listing all albums":"Viser alle album",
+	"Filter":"Filtrér",
+	"All":"Alle",
+	"Reorder Albums":"Endre rekkefølge på album",
+	"You can start by %screating an album%s":"Du kan starte med å %sopprette et album%s",
+	"Gallery: Edit Album":"Galleri: Endre album",
+	"Edit your album here.":"Endre albumet ditt her.",
+	"Creating a New Album":"Opprettelse av en nytt album",
+	"Album details":"Albumdetaljer",
+	"Title":"Tittel",
+	"Position in album list":"Posisjon i albumlisten",
+	"Save":"Lagre",
+	"or":"eller",
+	"Cancel":"Avbryt",
+	"Gallery: Reorder Albums":"Galleri: Endre rekkefølge på album",
+	"This page enables you to reorder your current albums.":"Denne siden gjøre det mulig å endre rekkefølgen på dine album."
+}

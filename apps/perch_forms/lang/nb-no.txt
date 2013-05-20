@@ -1,0 +1,6 @@
+{
+	"Forms":"Skjemaer",
+	"The forms in your site are listed here. If a form is configured to store data, you can click through to view the responses.":"Skjemaene på din webside vises her. Hvis et skjema er konfigurert til å lagre dataene, vil du kunne se dem her.",
+	"Listing Forms":"Viser skjemaer",
+	"No forms have been submitted yet. Submit a new form to have it show up here.":"Ingen skjema har blitt sendt inn ennå. Send inn et nytt skjema for at det skal vises her."
+}

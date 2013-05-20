@@ -1,0 +1,19 @@
+{
+	"Twitter":"Twitter",
+	"Twitter app":"Twitter app",
+	"No Tweets found. %sSet or check your Twitter username%s":"Ingen 'Tweets' ble funnet. %sSett eller sjekk ditt Twitter-brukernavn%s",
+	"This page lists all the tweets which have been fetched from Twitter.":"Denne siden viser alle 'tweets' som har blitt hentet fra Twitter.",
+	"Click on the Get Tweets button to fetch any new tweets.":"Klikk på 'Hent tweets'-knappen for å hente nye 'tweets'.",
+	"Listing Tweets":"Lister tweets",
+	"Get a Twitter consumer key and secret by %screating a Twitter app%s. Be sure to include a Callback URL (it's not used - your homepage URL will be fine).":"Get a Twitter consumer key and secret by %screating a Twitter app%s. Be sure to include a Callback URL (it's not used - your homepage URL will be fine).",
+	"Enter your Twitter user name (without the @). To fetch tweets from multiple Twitter accounts enter the user names separated by a comma.":"Enter your Twitter user name (without the @). To fetch tweets from multiple Twitter accounts enter the user names separated by a comma.",
+	"Configuring Twitter":"Konfigurering av Twitter",
+	"Twitter Settings":"Twitter innstillinger",
+	"Twitter consumer key":"Twitter consumer key",
+	"Twitter consumer secret":"Twitter consumer secret",
+	"Your Twitter username":"Ditt Twitter-brukernavn",
+	"Check for updates":"Hent oppdateringer",
+	"Save":"Lagre",
+	"or":"eller",
+	"Cancel":"Avbryt"
+}

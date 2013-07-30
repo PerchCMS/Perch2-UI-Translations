@@ -435,5 +435,9 @@
 	"Republishing: %s on page %s":"Republicando: %s a la p\u00e1gina %s",
 	"Republishing a lot of content can be slow and consume server resources.":"La republicaci\u00f3n de mucho contenido puede ser lento y consumir muchos recursos del servidor.",
 	"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"La republicaci\u00f3n vuelve a construir la copia en cache de cada p\u00e1gina. Es \u00fatil si has cambiado una plantilla y necesitas refrescar contenido existente para que aparezca el cambio.",
-	"Republishing completed successfully":"La republicaci\u00f3n se ha completado exitosamente"
+	"Republishing completed successfully":"La republicaci\u00f3n se ha completado exitosamente",
+	"Sorry, that page could not be created.":"Lo siento, esa página no pudo ser creada.",
+	"Store images":"Imágenes de la tienda",
+	"Default resource bucket":"Bucket de recursos por defecto",
+	"Subpage folder does not exist":"La carpeta de subpáginas no existe"
 }

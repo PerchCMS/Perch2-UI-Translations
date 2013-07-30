@@ -401,12 +401,6 @@
 	"Deleting the %s Navigation Group":"Deleting the %s Navigation Group",
 	"Are you sure you wish to delete the page %s?":"Are you sure you wish to delete the page %s?",
 	"Are you sure you wish to delete the group %s?":"Are you sure you wish to delete the group %s?",
-	"Campaign Monitor API Key":"Campaign Monitor API Key",
-	"Campaign Monitor List ID":"Campaign Monitor List ID",
-	"MailChimp API Key":"MailChimp API Key",
-	"MailChimp List ID":"MailChimp List ID",
-	"CampaignMonitor":"CampaignMonitor",
-	"MailChimp":"MailChimp",
 	"Moderate":"Moderate",
 	"Upvote points":"Upvote points",
 	"Downvote points":"Downvote points",
@@ -436,5 +430,8 @@
 	"Republishing a lot of content can be slow and consume server resources.":"Republishing a lot of content can be slow and consume server resources.",
 	"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.",
 	"Republishing completed successfully":"Republishing completed successfully",
-	"Sorry, that page could not be created.":"Sorry, that page could not be created."
+	"Sorry, that page could not be created.":"Sorry, that page could not be created.",
+	"Store images":"Store images",
+	"Default resource bucket":"Default resource bucket",
+	"Subpage folder does not exist":"Subpage folder does not exist"
 }

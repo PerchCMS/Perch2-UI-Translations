@@ -135,6 +135,7 @@
 	"Test email settings":"Test email instellingen",
 	"Send test email":"Verzend test email",
 	"When raising a support ticket you should copy and paste the information on this page.":"Wanneer een support ticket wordt aangemaakt, kopieer en plak de informatie van deze pagina.",
+	"Understanding this report":"Dit rapport begrijpen", 
 	"The Diagnostics Report gives you useful advice about your set-up and also your hosting environment.":"Het Diagnose Rapport geeft je bruikbaar advies betreft je opstelling en ook je hosting omgeving.",
 	"Settings listed under Perch Information are part of Perch and generally things you can change.":"Instellingen onder Perch Informatie maken deel uit van Perch en zijn meestal dingen die je kan veranderen.",
 	"Settings listed under Hosting Settings are part of your hosting environment. Making a change to any of these - for example increasing the maximum allowable file upload size - is something that you would need to ask your hosting company about.":"Instellingen onder Hosting Instellingen maken deel uit van je hosting omgeving. Het aanpassen hiervan - zoals het verhogen van de upload limiet - zal door je hosting bedrijf moeten worden gedaan.",
@@ -400,12 +401,6 @@
 	"Deleting the %s Navigation Group":"Navigatie Groep %s Verwijderen",
 	"Are you sure you wish to delete the page %s?":"Weet je zeker dat je de pagina %s wilt verwijderen?",
 	"Are you sure you wish to delete the group %s?":"Weet je zeker dat je de groep %s wilt verwijderen?",
-	"Campaign Monitor API Key":"Campaign Monitor API Key",
-	"Campaign Monitor List ID":"Campaign Monitor List ID",
-	"MailChimp API Key":"MailChimp API Key",
-	"MailChimp List ID":"MailChimp List ID",
-	"CampaignMonitor":"CampaignMonitor",
-	"MailChimp":"MailChimp",
 	"Moderate":"Moderate",
 	"Upvote points":"Pluspunten",
 	"Downvote points":"Minpunten",
@@ -435,5 +430,8 @@
 	"Republishing a lot of content can be slow and consume server resources.":"Republishing a lot of content can be slow and consume server resources.",
 	"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.",
 	"Republishing completed successfully":"Herpubliceren voltooid",
-	"Sorry, that page could not be created.":"Sorry, die pagina kon niet worden aangemaakt."
+	"Sorry, that page could not be created.":"Sorry, die pagina kon niet worden aangemaakt.",
+	"Store images":"Plaatjes opslaan",
+	"Default resource bucket":"Standaard resource bucket",
+	"Subpage folder does not exist":"Subpagina map bestaat niet"
 }

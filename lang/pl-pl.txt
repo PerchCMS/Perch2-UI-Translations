@@ -1,4 +1,5 @@
-{"lang":"pl-pl",
+{
+	"lang":"pl-pl",
 	"Pages":"Strony",
 	"Manage Content":"Zarz\u0105dzaj tre\u015bci\u0105",
 	"Shared":"Wsp\u00f3lny",

@@ -1,0 +1,9 @@
+{
+	"lang":"pl-pl",
+	"Mailchimp":"Mailchimp",
+	"Total subscribers":"Liczba subskrybent\u00f3w",
+	"Yesterday":"Wczoraj",
+	"Today":"Dzisiaj",
+	"Latest subscribers":"Najnowsi subskrybenci",
+	"You must set your Mailchimp API Key and List ID in Settings.":"Ustaw swój Klucz API oraz ID Listy dla Mailchimp w Ustawieniach"
+}

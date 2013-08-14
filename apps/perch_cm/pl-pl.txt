@@ -1,0 +1,10 @@
+{
+	"lang":"pl-pl",
+	"CampaignMonitor":"CampaignMonitor",
+	"Campaign Monitor":"Campaign Monitor",
+	"Total subscribers":"Liczba subskrybent\u00f3w",
+	"Yesterday":"Wczoraj",
+	"Today":"Dzisiaj",
+	"Latest subscribers":"Najnowsi subskrybenci",
+	"You must set your Campaign Monitor API Key and List ID in Settings.":"Ustaw swój Klucz API oraz ID Listy dla Campaign Monitor w Ustawieniach"
+}

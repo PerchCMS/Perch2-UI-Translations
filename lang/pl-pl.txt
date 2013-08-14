@@ -429,5 +429,9 @@
 	"Republishing: %s on page %s":"Ponowna publikacja: %s na stronie %s",
 	"Republishing a lot of content can be slow and consume server resources.":"Ponowna publikacja mn\u00f3stwa tre\u015bci mo\u017ce zaj\u0105\u0107 sporo czasu i zu\u017cytkowa\u0107 spore zasoby serwera.",
 	"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"Ponowna publikacja na ka\u017cdej stronie pokazuje piecz\u0119\u0107 strony. Jest to u\u017cyteczne, je\u015bli zmieniono wz\u00f3r i trzeba od\u015bwie\u017cy\u0107 istniej\u0105c\u0105 tre\u015b\u0107, \u017ceby zobaczy\u0107 zmiany.",
-	"Republishing completed successfully":"Uko\u0144czono ponown\u0105 publikacj\u0119."
+	"Republishing completed successfully":"Uko\u0144czono ponown\u0105 publikacj\u0119.",
+	"Sorry, that page could not be created.":"Przepraszamy, ta strona nie mog\u0142a by\u0107 utworzona.",
+	"Store images":"Miejsce przechowywania obraz\u00f3w",
+	"Default resource bucket":"Domy\u015blny kontener zasob\u00f3w",
+	"Subpage folder does not exist":"Folder podstrony nie istnieje"
 }

@@ -211,7 +211,7 @@
 	"Required fields are marked with an asterisk.":"Obligatorische Felder sind mit einem Stern markiert.",
 	"Page assignment":"Seitenzuordnung",
 	"Save Changes":"\u00c4nderungen speichern",
-	"Save & Add another":"Speichern &amp; weiteren Eintrag hinzuf\u00fcgen",
+	"Save & Add another":"Speichern & weiteren Eintrag hinzuf\u00fcgen",
 	"Save as Draft":"Als Entwurf speichern",
 	"Draft successfully updated":"Entwurf erfolgreich aktualisiert",
 	"Item":"Eintrag",

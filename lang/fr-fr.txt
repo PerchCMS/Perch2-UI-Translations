@@ -117,7 +117,7 @@
 	"Header colour scheme":"Sch\u00e9ma de couleurs de l'en-t\u00eate",
 	"Website URL":"URL du Site web",
 	"Help button URL":"URL du bouton d'aide",
-	"Enable dashboard":"Activ\u00e9 tableau de bord",
+	"Enable dashboard":"Activer tableau de bord",
 	"Hide Perch branding":"Cacher la marque ",
 	"Collapse content list":"D\u00e9ployer la liste des contenus",
 	"Default to single-page edit mode":"Par d\u00e9faut vers une seule page en mode \u00e9dition",

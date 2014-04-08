@@ -40,7 +40,7 @@
 	"Form settings":"Formulier instellingen",
 	"Title":"Titel",
 	"Storing responses":"Respons opslaan",
-	"Store responses":"Respons opslaa",
+	"Store responses":"Respons opslaan",
 	"Must be absolute system path outside site - see sidebar":"Behoort een absoluut systeem doel te zijn buiten de website - zie zijbalk",
 	"File upload path":"Bestandsupload doel",
 	"Sending email":"Versturen van email",

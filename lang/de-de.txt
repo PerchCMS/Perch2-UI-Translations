@@ -476,7 +476,7 @@
 	"Those changes have been made successfully.":"Diese Änderungen wurden erfolgreich vorgenommen.",
 	"Add Another":"Weiteres hinzufügen",
 	"Changing the template can result in data loss if the fields in the templates are not the same.":"Das Ändern der Vorlage kann zu Datenverlust führen, wenn die Felder der Vorlagen nicht identisch sind.",
-	"When more than one field is set as the item title, the titles will be concatenated using this value.":"Werden mehrere Felder für den Eintrags-Titel verwendet, werden sie durch diesen Wert verbunden."
+	"When more than one field is set as the item title, the titles will be concatenated using this value.":"Werden mehrere Felder für den Eintrags-Titel verwendet, werden sie durch diesen Wert verbunden.",
 	"Description":"Beschreibung",
 	"Keywords":"Stichworte",
 	"Separate with commas":"Trenne Stichwörter durch Kommas",

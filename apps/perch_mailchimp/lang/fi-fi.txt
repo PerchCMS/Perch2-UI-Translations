@@ -1,0 +1,9 @@
+{
+	"lang":"fi-fi",
+	"Mailchimp":"Mailchimp",
+	"Total subscribers":"Tilaajien kokonaismäärä",
+	"Yesterday":"Eilen",
+	"Today":"Tänään",
+	"Latest subscribers":"Viimeisimmät tilaajat",
+	"You must set your Mailchimp API Key and List ID in Settings.":"Syötä Mailchimp API-avaimesi ja List ID:si asetuksissa"
+}

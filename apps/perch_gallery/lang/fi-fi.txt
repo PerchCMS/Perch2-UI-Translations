@@ -1,0 +1,22 @@
+{
+	"Gallery":"Galleria",
+	"Gallery: Manage Albums":"Galleria: Hallitse albumeita",
+	"This page lists your current albums. You can add a new album or add new images to an existing album.":"Tällä sivulla listataan nykyiset albumisi. Voit lisätä uuden albumin tai lisätä kuvia olemassaolevaan albumiin.",
+	"Add Album":"Lisää uusi albumi",
+	"Listing all albums":"Näytä kaikki albumit",
+	"Filter":"Suodata",
+	"All":"Kaikki",
+	"Reorder Albums":"Järjestä albumit uudelleen",
+	"You can start by %screating an album%s":"Voit aloittaa %sluomalla uuden albumin%s",
+	"Gallery: Edit Album":"Galleria: Lisää albumi",
+	"Edit your album here.":"Muokkaa albumia täällä.",
+	"Creating a New Album":"Luodaan uusi albumi",
+	"Album details":"Albumin tiedot",
+	"Title":"Otsikko",
+	"Position in album list":"Sijainti albumiluettelossa",
+	"Save":"Tallenna",
+	"or":"tai",
+	"Cancel":"Peruuta",
+	"Gallery: Reorder Albums":"Galleria: Järjestä albumit uudelleen",
+	"This page enables you to reorder your current albums.":"Tällä sivulla voit järjestää nykyiset albumisi uudelleen."
+}

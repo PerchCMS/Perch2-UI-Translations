@@ -1,0 +1,19 @@
+{
+	"Twitter":"Twitter",
+	"Twitter app":"Twitter-sovellus",
+	"No Tweets found. %sSet or check your Twitter username%s":"Twiittejä ei löytynyt. %sMääritä tai tarkista Twitter-käyttäjänimesi%s",
+	"This page lists all the tweets which have been fetched from Twitter.":"Tällä sivulla näet kaikki Twitteristä noudetut twiitit",
+	"Click on the Get Tweets button to fetch any new tweets.":"Paina Hae twiitit -painiketta hakeaksesi uudet twiitit.",
+	"Listing Tweets":"Listataan twiitit",
+	"Get a Twitter consumer key and secret by %screating a Twitter app%s. Be sure to include a Callback URL (it's not used - your homepage URL will be fine).":"Hanki Twitter consumer key ja secret %sluomalla Twitter-applikaatio%s. Muista lisätä Callback URL (sitä ei käytetä, sivustosi URL käy tähän hyvin).",
+	"Enter your Twitter user name (without the @). To fetch tweets from multiple Twitter accounts enter the user names separated by a comma.":"Syötä Twitter-käyttäjänimesi (ilman @-merkkiä). Hakeaksesi twiittejä useammalta Twitter-tililtä erota käyttäjänimet pilkulla.",
+	"Configuring Twitter":"Määritellään Twitteriä",
+	"Twitter Settings":"Twitterin asetukset",
+	"Twitter consumer key":"Twitterin consumer key",
+	"Twitter consumer secret":"Twitterin consumer secret",
+	"Your Twitter username":"Twitter-käyttäjänimesi",
+	"Check for updates":"Tarkista päivitykset",
+	"Save":"Tallenna",
+	"or":"tai",
+	"Cancel":"Peruuta"
+}

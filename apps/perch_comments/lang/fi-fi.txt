@@ -1,0 +1,11 @@
+{
+	"Comments":"Kommentit",
+	"Manage Comments":"Hallitse kommentteja",
+	"This page lists comments that have been left by website visitors.":"Täällä näet käyttäjien sivustollesi jättämät kommentit",
+	"The Pending category lists comments that are waiting approval to be published on the site.":"Odottavat-kategoriaan on listattu kommentit, jotka odottavat hyväksyntää julkaisuun sivustolle.",
+	"Listing Comments":"Näytetään kommentit",
+	"All":"Kaikki",
+	"Pending (%s)":"Odottavat (%s)",
+	"You are viewing all comments pending moderation.":"Näytetään kaikki moderointia odottavat kommentit.",
+	"Clear Filter":"Tyhjennä suodatus"
+}

@@ -1,0 +1,6 @@
+{
+	"Forms":"Lomakkeet",
+	"The forms in your site are listed here. If a form is configured to store data, you can click through to view the responses.":"Täällä näet sivustosi lomakkeet. Jos lomake on asetettu tallentamaan vastaukset järjestelmään, klikkaa lomakkeen nimeä nähdäksesi vastaukset.",
+	"Listing Forms":"Listataan lomakkeet",
+	"No forms have been submitted yet. Submit a new form to have it show up here.":"Yhtään lomaketta ei ole vielä lähetetty. Lähetä uusi lomake nähdäksesi sen täällä."
+}

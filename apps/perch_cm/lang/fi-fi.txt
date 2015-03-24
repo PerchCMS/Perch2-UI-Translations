@@ -1,0 +1,10 @@
+{
+	"lang":"fi-fi",
+	"CampaignMonitor":"CampaignMonitor",
+	"Campaign Monitor":"Campaign Monitor",
+	"Total subscribers":"Tilaajia yhteensä",
+	"Yesterday":"Eilen",
+	"Today":"Tänään",
+	"Latest subscribers":"Viimeisimmät tilaajat",
+	"You must set your Campaign Monitor API Key and List ID in Settings.":"Syötä Campaign Monitorin API-avain ja List ID asetuksissa."
+}

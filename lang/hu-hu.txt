@@ -37,7 +37,7 @@
     "Style": "Stílus",
     "Upload": "Feltöltés",
     "or": "vagy",
-    "Cancel": "Mégsem",
+    "Cancel": "Mégse",
     "Mixed": "Vegyes",
     "Toggle sidebar": "Oldalsáv váltása",
     "Delete this item?": "Törli ezt az elemet?",
@@ -559,5 +559,13 @@
     "Key": "Kulcs",
     "Warning": "Figyelmeztetés",
     "This option deletes all content from this region.": "Ez az opció minden tartalmat töröl ebből a régióból.",
-    "Delete all content from this region immediately": "Minden tartalom azonnali törlése ebből a régióból"
+    "Delete all content from this region immediately": "Minden tartalom azonnali törlése ebből a régióból",
+    "Select a file": "Fájl kiválasztása",
+    "(required)": "(kötelező)",
+    "Dark text for light background colours": "Sötét szöveg világos háttérszínekhez",
+    "Light text for dark background colours": "Világos szöveg sötét háttérszínekhez",
+    "Show dedicated back link in sidebar": "Dedikált vissza gomb megjelenítése az oldalsávon",
+    "Enable keyboard shortcuts": "Gyorsbillentyűk engedélyezése",
+    "Skip region list for just one region": "Régió lista átugrása egyetlen régiónál",
+    "Enforce bucket restrictions on content": "Kosár korlátozások érvényesítése a tartalmon"
 }
